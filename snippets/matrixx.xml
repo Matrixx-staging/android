@@ -74,7 +74,7 @@
   <project path="libcore" name="libcore" groups="pdk" remote="matrixx" />
 
   <project path="packages/apps/ColumbusService" name="packages_apps_ColumbusService" remote="matrixx" />
-  <project path="packages/apps/MatrixxSettings" name="packages_apps_MatrixxSettings" remote="matrixx" />
+  <project path="packages/apps/MatrixxLab" name="packages_apps_MatrixxLab" remote="matrixx" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" groups="pdk-fs" remote="matrixx" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="matrixx" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="matrixx" />
@@ -87,7 +87,7 @@
   <project path="packages/apps/Matrixx/Wallpapers" name="packages_apps_Matrixx_Wallpapers" remote="matrixx" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="matrixx" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="matrixx" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="matrixx" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="matrixx" revision="test"/>
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="matrixx" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="matrixx" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs,sysui-studio" remote="matrixx" />
